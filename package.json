@@ -1,0 +1,13 @@
+{
+  "name": "tailwind-css-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "tailwindcss": "^2.1.1"
+  }
+}
