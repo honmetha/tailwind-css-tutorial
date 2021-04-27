@@ -1,4 +1,8 @@
-# Tailwind CSS Tutorial
+<img src="./uploads/tailwind-css-logo.png" alt="Tailwind CSS">
+
+<img src="./uploads/click-below.gif" alt="Click Below">
+
+[CLICK HERE FOR DEMO](https://honmetha.github.io/tailwind-css-tutorial/)
 
 ## Tutorials
 
