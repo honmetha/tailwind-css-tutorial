@@ -1,6 +1,6 @@
-<img src="./uploads/tailwind-css-logo.png" alt="Tailwind CSS">
+<img src="./uploads/tailwind-css-logo.png" alt="Tailwind CSS" width="300px" >
 
-<img src="./uploads/click-below.gif" alt="Click Below">
+<img src="./uploads/click-below.gif" alt="Click Below" width="300px" >
 
 [CLICK HERE FOR DEMO](https://honmetha.github.io/tailwind-css-tutorial/)
 
